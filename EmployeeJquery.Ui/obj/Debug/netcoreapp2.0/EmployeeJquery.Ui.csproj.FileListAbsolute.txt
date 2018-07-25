@@ -1,0 +1,11 @@
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\bin\Debug\netcoreapp2.0\EmployeeJquery.Ui.deps.json
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\bin\Debug\netcoreapp2.0\EmployeeJquery.Ui.runtimeconfig.json
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\bin\Debug\netcoreapp2.0\EmployeeJquery.Ui.runtimeconfig.dev.json
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\bin\Debug\netcoreapp2.0\EmployeeJquery.Ui.dll
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\bin\Debug\netcoreapp2.0\EmployeeJquery.Ui.pdb
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\obj\Debug\netcoreapp2.0\EmployeeJquery.Ui.csproj.CoreCompileInputs.cache
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\obj\Debug\netcoreapp2.0\EmployeeJquery.Ui.AssemblyInfoInputs.cache
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\obj\Debug\netcoreapp2.0\EmployeeJquery.Ui.AssemblyInfo.cs
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\obj\Debug\netcoreapp2.0\EmployeeJquery.Ui.dll
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\obj\Debug\netcoreapp2.0\EmployeeJquery.Ui.pdb
+E:\Portfolio\WebApiAspNetCoreJQuerySolution\EmployeeJquery.Ui\obj\Debug\netcoreapp2.0\EmployeeJquery.Ui.csprojAssemblyReference.cache
